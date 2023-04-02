@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/rakheshchauhanweb/static/css/main.9506c653.chunk.css",
+    "main.js": "/rakheshchauhanweb/static/js/main.b97cbd3e.chunk.js",
+    "main.js.map": "/rakheshchauhanweb/static/js/main.b97cbd3e.chunk.js.map",
+    "runtime-main.js": "/rakheshchauhanweb/static/js/runtime-main.65a1523d.js",
+    "runtime-main.js.map": "/rakheshchauhanweb/static/js/runtime-main.65a1523d.js.map",
+    "static/js/2.6ceafea0.chunk.js": "/rakheshchauhanweb/static/js/2.6ceafea0.chunk.js",
+    "static/js/2.6ceafea0.chunk.js.map": "/rakheshchauhanweb/static/js/2.6ceafea0.chunk.js.map",
+    "index.html": "/rakheshchauhanweb/index.html",
+    "static/css/main.9506c653.chunk.css.map": "/rakheshchauhanweb/static/css/main.9506c653.chunk.css.map",
+    "static/js/2.6ceafea0.chunk.js.LICENSE.txt": "/rakheshchauhanweb/static/js/2.6ceafea0.chunk.js.LICENSE.txt",
+    "static/media/Destination1.b43b40eb.png": "/rakheshchauhanweb/static/media/Destination1.b43b40eb.png",
+    "static/media/Destination2.64eec980.png": "/rakheshchauhanweb/static/media/Destination2.64eec980.png",
+    "static/media/Destination3.b4028caa.png": "/rakheshchauhanweb/static/media/Destination3.b4028caa.png",
+    "static/media/Destination4.c19a433b.png": "/rakheshchauhanweb/static/media/Destination4.c19a433b.png",
+    "static/media/Destination5.8db742a0.png": "/rakheshchauhanweb/static/media/Destination5.8db742a0.png",
+    "static/media/Destination6.b43b40eb.png": "/rakheshchauhanweb/static/media/Destination6.b43b40eb.png",
+    "static/media/avatarImage.a6143582.png": "/rakheshchauhanweb/static/media/avatarImage.a6143582.png",
+    "static/media/hero.decd6e52.png": "/rakheshchauhanweb/static/media/hero.decd6e52.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65a1523d.js",
+    "static/js/2.6ceafea0.chunk.js",
+    "static/css/main.9506c653.chunk.css",
+    "static/js/main.b97cbd3e.chunk.js"
+  ]
+}
